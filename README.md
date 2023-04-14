@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [https://shorenatsiklauri.github.io/Interactive-pricing-component/)
 
 ## My process
 
